@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/luizamaria.schwinn/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  <a href="luiza.maria.schwinn@gmail.com">
+  <a href="mailto:luiza.maria.schwinn@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/luiza-maria-schwinn-31ba8422a/" target="_blank">
